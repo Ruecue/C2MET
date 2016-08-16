@@ -11,7 +11,7 @@ close all
 commandwindow
 
 %% Loading information
-cd('C:\Users\U120122\SURFdrive\_PHD\_Experiments\EUAIMS\C2M_ET\Analysis\FinalAnalysis\MatlabScripts\Main\');
+cd('');
 INFO=rb_C2M_Info();
 addpath([INFO.dirscripts,'Extra',filesep])
 
